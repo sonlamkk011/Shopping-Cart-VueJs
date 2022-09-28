@@ -12,29 +12,3 @@ npm install
 npm run serve
 ```
 
-Or use `yarn`
-``` bash
-yarn install
-yarn serve
-```
-
-You can use data in `data/` folder to import to `products` node in your firebase app.
-
-## Features
-
-This project implements basic shopping cart features:
-* Login / Register
-* Pull products list from API
-* Add/Remove item to shopping cart
-
-## Technical details
-
-* VueJS [^2.2.1]
-* [Bootstrap 4](https://getbootstrap.com/)
-* Firebase (auth and realtime database)
-
-## Demo
-
-Checkout demo at [Demo](http://vuejs-shopping-cart.coddeine.com/)
-
-![Alt text](/screenshots/screenshot1.png?raw=true "Optional Title")
